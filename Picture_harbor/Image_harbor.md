@@ -1,8 +1,3 @@
-Pictures and images for neobiota 2026 poster
-[Images of colonization experiment](Image_harbor.md)
-[Interactive map of records](map_interactive.html)
-<iframe src="map_interactive.html" height="800" width="800"></iframe>
-[Interactive clusters of cytB at 92%](92cytBTaxon_network.html)
-<iframe src="92cytBTaxon_network.html" height="800" width="800"></iframe>
-[Interactive clusters of 18S at 100%](10018STaxon_network.html)
-<iframe src="10018STaxon_network.html" height="800" width="800"></iframe>
+Colonization experiment
+Image of harbor:
+<iframe src="https://portolimpic.barcelona/sites/default/files/2025-05/Port%20Ol%C3%ADmpic%20panor%C3%A0mica%201.png" height=800, width= 1200><\iframe>
